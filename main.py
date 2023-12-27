@@ -7,3 +7,6 @@ a = x + y + z
 print(type(x))
 print(type(y))
 print(type(z))
+
+
+print(a)
